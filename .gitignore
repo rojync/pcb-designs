@@ -1,0 +1,13 @@
+# KiCad local history
+.history/
+
+# Local settings
+*.kicad_prl
+
+# Temporary lock files
+*.lck
+
+# Backups
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
